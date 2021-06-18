@@ -11,8 +11,5 @@
         "ecmaVersion": 12
     },
     "rules": {
-    },
-    "eslintConfig": {
-        "root": true
     }
 }

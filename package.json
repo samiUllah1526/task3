@@ -4,7 +4,7 @@
   "description": "Set a project with Airbnb coding guideline",
   "main": "GuideSetup.js",
   "scripts": {
-    "test": ""
+    "test": "./node_modules/.bin/eslint *.js --fix"
   },
   "author": "",
   "license": "ISC",
